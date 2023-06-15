@@ -1,0 +1,40 @@
+
+0
+java:S1220""Move this file to a named package.
+R
+java:S3655I"7Call "Optional#isPresent()" before accessing the value.(íÒ“¨úÿÿÿÿ
+V	java:S125	"<This block of commented-out lines of code should be removed.(Ğıÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(—©Ìµıÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(€²­š
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ê»ùˆ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ûşÏÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(øÄøë
+V	java:S125"<This block of commented-out lines of code should be removed.(ÿ‡Óîûÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(¶æ´¯
+V	java:S125"<This block of commented-out lines of code should be removed.(Íï»üÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(®®É©
+Q	java:S125#"<This block of commented-out lines of code should be removed.(Õ£»å
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(—şöÉøÿÿÿÿ
+V	java:S125+"<This block of commented-out lines of code should be removed.(î½¶¿øÿÿÿÿ
+Q	java:S1258"<This block of commented-out lines of code should be removed.(¼ˆ´
+E
+java:S1197G"*Move the array designators [] to the type.(ßâãÜşÿÿÿÿ
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(ª¢›¨ÿÿÿÿÿ
+N	java:S106Y"9Replace this use of System.out or System.err by a logger.(·ğ±¡
+N	java:S106`"9Replace this use of System.out or System.err by a logger.(İ‡™ê
+S	java:S106t"9Replace this use of System.out or System.err by a logger.(ï¬…“ÿÿÿÿÿ
+O	java:S106‰"9Replace this use of System.out or System.err by a logger.(³ÅÔ£
+O	java:S106‹"9Replace this use of System.out or System.err by a logger.(°ÎğŞ
+T	java:S106¬"9Replace this use of System.out or System.err by a logger.(ò©»®ÿÿÿÿÿ
+T
+java:S1128">Remove this unused import 'java.nio.charset.StandardCharsets'.(ï˜ŞÛ
+N
+java:S1128"8Remove this unused import 'java.util.function.Function'.(»³Í
+D
+java:S1144V".Remove this unused private "uppercase" method.(òéœ‘
+P
+java:S1144i"5Remove this unused private "interviewProgram" method.(ÌãŞşÿÿÿÿ
+L
+java:S1144w"6Remove this unused private "interviewProgram2" method.(»‚ÙÌ
+L
+java:S1144‘"0Remove this unused private "testProgram" method.(ş¥ıíúÿÿÿÿ
